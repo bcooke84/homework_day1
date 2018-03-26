@@ -1,3 +1,7 @@
 This is my homework1 text file
 This is a change to my file
 This is another change to my file
+
+gitignore is a file created by the user that specifies
+any files that a user wishes git to ignore.  Therefore any changes to these
+files are ignored and are not detailed with the 'git status' command.
